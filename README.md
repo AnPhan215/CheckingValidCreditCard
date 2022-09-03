@@ -1,6 +1,8 @@
 # CheckingValidCreditCard
 *This is one of the CS50 projects that I did* 
+
 This program can check if your credit card is valid or not
+
 This program is meant for practice in pset1 of CS50x. One of the course from Harvard University.
 
 UNDERSTADNDING:
