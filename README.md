@@ -21,10 +21,10 @@ So what’s the secret formula? Well, most cards use an algorithm invented by Ha
 
 That’s kind of confusing, so let’s try an example with David’s Visa: 4003600000000014.
 
-For the sake of discussion, let’s first underline every other digit, starting with the number’s second-to-last digit:
-4003600000000014
+For the sake of discussion, let’s first bracket every other digit, starting with the number’s second-to-last digit:
+(4)0(0)3(6)0(0)0(0)0(0)0(0)0(1)4
 
-Okay, let’s multiply each of the underlined digits by 2:
+Okay, let’s multiply each of the "bracketed" digits by 2:
 
 1•2 + 0•2 + 0•2 + 0•2 + 0•2 + 6•2 + 0•2 + 4•2
 
