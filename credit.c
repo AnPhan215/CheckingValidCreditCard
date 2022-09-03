@@ -13,6 +13,8 @@ int main(void)
     long long num = 0;      //input number
     int temp = 0;           //temperary num to distinguise if the card legit
 
+    ///hello
+
     //Asking input
     do
     {
